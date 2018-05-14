@@ -8,7 +8,8 @@ public class AccountTest {
         Scanner input = new Scanner(System.in);
 
         //Create an instance of account
-        Account myAccount = new Account();
+        Account myAccount = new Account( "Kareem Marzouk");
+        //Account myAccount = new Account();
 
         //Display the default account info.
 
